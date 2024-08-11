@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.timeline-view-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.timeline-view-heading1 {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.timeline-view-heading2 {
+  font-family: 'Roboto';
+  font-size: 33px;
+  font-weight: 600;
+  color: #171f46;
+}
+
+.timeline-view-chrono-container {
+  width: 100%;
+  height: 100%;
+}
+
+.timeline-view-chrono-card-container {
+  background-color: #ffffff;
+}

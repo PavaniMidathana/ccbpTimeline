@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.project-timeline-card-image {
+  width: 100%;
+}
+
+.project-timeline-card-heading-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.project-timeline-card-heading-container-h {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-style: 600;
+}
+
+.project-timeline-card-heading-container-p {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-style: 500;
+}
+
+.project-timeline-card-heading-container-p-icon {
+  height: 15px;
+  width: 15px;
+  margin-right: 10px;
+}
+
+.project-timeline-card-description {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-style: 500;
+}
+
+.project-timeline-card-link {
+  color: #0967d2;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-style: 500;
+  text-decoration: none;
+}
